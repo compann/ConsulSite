@@ -1,0 +1,26 @@
+section {
+    text-align: center;
+    position: center;
+    height: auto;
+    width: 100%;
+    margin: 0; 
+    padding: 0; 
+    background-color: #f8f8f8;
+
+}
+
+img {   
+    margin-top: -20px;
+    margin-bottom: -20px;
+    height: auto;
+    max-width: 100%;
+    
+  
+}
+
+@media (max-width: 768px) {
+    img {
+        height: 100%;
+        max-width: 100%;
+    }
+  }
